@@ -1,5 +1,2 @@
 https://rogerdudler.github.io/git-guide/
 Hello Lucas, how are you?
-
-Yaba Daba Do
-Change some stuff
