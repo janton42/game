@@ -1,11 +1,8 @@
 https://rogerdudler.github.io/git-guide/
 Hello Lucas, how are you?
-<<<<<<< HEAD
 
 Yaba Daba Do
 Change some stuff
 
 
-This change 
-=======
->>>>>>> 620286f984b4f3ef417b43929844306113480bd7
+This change
